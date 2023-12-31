@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Mihir Chandwani
-## Student at IIT Roorkee | Blockchain Developer at [BlocSoc](https://blocsoc.iitr.ac.in/) IIT Roorkee
+## Sophomore at IIT Roorkee | Blockchain Developer at [BlocSoc](https://blocsoc.iitr.ac.in/) IIT Roorkee | Web3 Security Enthusiast
 
 A passionate blockchain developer currently pursuing my studies at the Indian Institute of Technology (IIT) Roorkee. I'm a member of BlocSoc, the blockchain society at IIT Roorkee, where I actively contribute to the advancement of decentralized technologies.
 
