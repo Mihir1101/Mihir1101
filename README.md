@@ -1,32 +1,62 @@
-### Hi there 👋
 # Mihir Chandwani
-## Pre-Final year at IIT Roorkee | Joint Administrator at [BlocSoc](https://blocsoc.iitr.ac.in/) IIT Roorkee | Web3 Security Enthusiast
 
-A passionate blockchain developer currently pursuing my studies at the IIT Roorkee with a keen interest in Web3 security and blockchain development. As the Joint Administrator of BlocSoc, the blockchain society at IIT Roorkee, oversee administrative and logistic duties, work on the organization's continuous growth, take lectures on various blockchain specific concepts. I actively participate in global Web3-based competitions and contribute to major BlocSoc projects.
+**Lead Smart Contract Developer & Security Engineer**  
+B.Tech @ IIT Roorkee (2022–2026) · President @ [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
-## Work Experience
-- Security Audit Intern | [Nethermind](https://www.nethermind.io/)
-- Smart Contract Developer | [Samudai](https://www.samudai.xyz/)
+---
 
-## Achivements
-- ETHIndia'23 Finalists([Alliance 1st Prize](https://ethglobal.com/showcase/flockchain-855yg),[MetaMask 2nd Prize](https://ethglobal.com/showcase/flockchain-855yg))
-- Winners in SyntaxError(Polygon,Blooming Passionpreneurs)
-- Scroll pool prize in ETHOnline'23
+I build and break DeFi protocols. Currently leading smart contract development and security at **Avon** — a production peer-to-peer lending/borrowing protocol with $7M+ TVL — where I own everything from core protocol architecture to liquidation bots to coordinating audits across 5 top-tier firms.
 
-## Skills
-- **Blockchain Development:** Solidity, Smart Contracts, Ethereum
-- **Security:** Blockchain Security Audits, Vulnerability Assessment
-- **Programming Languages:**  Solidity, JavaScript, TypeScript, Cairo, C++, GoLang, Rust
-- **Tools & Technologies:** Foundry, Remix, Git, NodeJS, React, Next, Express, MongoDB
+On the security side, I compete in public audit contests and have consistently surfaced high and critical severity vulnerabilities as a solo auditor.
 
-## 🌱 More about Me
+---
 
-- 🎶Love listening to music
-- 🏀Playing basketball in my free time
-- 🧑🏻‍💻Currently taking part in hackathons to make some real world project
+## 🏢 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Lead Smart Contract Developer & Security Engineer | [Avon](https://avon.finance) | Jan 2025 – Present |
+| Security Auditor | [Nethermind](https://www.nethermind.io/) | May – Aug 2024 |
+| Solidity & Backend Developer | [Spectral Labs](https://spectral.finance/) | Jun – Sep 2024 |
+| Smart Contract Developer | [Samudai](https://www.samudai.xyz/) | Apr – May 2024 |
+
+---
+
+## 🏆 Competitive Audit Highlights
+
+- **Mach Finance** (Sherlock) — **Ranked 1st** out of 112 competitors
+- **ZetaChain** (Cantina) — 1 High + 4 Medium in a 1,500 SLOC codebase, 2-week window
+- **Dinero** (Nethermind) — 2 High severity findings; one solo exclusive
+- **Swell** (Nethermind) — Solo Medium in a liquid staking protocol audit
+
+---
+
+## 🛠️ What I Work With
+
+**Smart Contracts & Security**
+`Solidity` `ERC-20/ERC-4626/ERC-721` `Foundry` `DeFi Protocol Design` `Fuzzing` `Formal Invariant Testing` `Reentrancy / Flash-loan / Oracle Attack Vectors`
+
+**Blockchain Infrastructure**
+`Ethereum` `EVM` `Morpho v2` `Aave` `Uniswap V2/V3` `LayerZero` `EIP-712` `Keeper Bots` `Envio/HyperSync` `The Graph`
+
+**Languages**
+`Solidity` `TypeScript` `JavaScript` `Go` `Rust` `Python`
+
+**Backend & DevOps**
+`Node.js` `Express` `PostgreSQL` `MongoDB` `Docker` `CI/CD` `Ethers.js` `Web3.js`
+
+---
+
+## 🎖️ Achievements
+
+- **ETHIndia 2023** — Finalist · Alliance "Most Likely to be a Startup" 1st · MetaMask Best Gas API 2nd
+- **Syntax Error Hackathon** — Blooming Passionpreneurs 1st · Polygon Track 1st
+- **Public Audit Record** — Multiple valid High/Medium findings as a solo auditor across competitive contests
+
+---
 
 ## 📫 Let's Connect
 
-- **Twitter** [Mihir_1101](https://twitter.com/mihir_1101)
-- **Email:** mihir6453@gmail.com
-- **LinkedIn:** [Mihir Chandwani](www.linkedin.com/in/mihir-chandwani-a52876257)
+[![Twitter](https://img.shields.io/badge/Twitter-@Mihir__1101-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mihir_1101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Chandwani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-chandwani-a52876257)
+[![Email](https://img.shields.io/badge/Email-mihir6453@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mihir6453@gmail.com)
