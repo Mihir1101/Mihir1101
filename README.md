@@ -15,7 +15,7 @@ On the security side, I compete in public audit contests and have consistently s
 
 | Role | Company | Period |
 |------|---------|--------|
-| Lead Smart Contract Developer & Security Engineer | [Avon](https://avon.finance) | Jan 2025 – Present |
+| Lead Smart Contract Developer & Security Engineer | [Avon](https://avon.finance) | Jan 2025 – July 2026 |
 | Security Auditor | [Nethermind](https://www.nethermind.io/) | May – Aug 2024 |
 | Solidity & Backend Developer | [Spectral Labs](https://spectral.finance/) | Jun – Sep 2024 |
 | Smart Contract Developer | [Samudai](https://www.samudai.xyz/) | Apr – May 2024 |
